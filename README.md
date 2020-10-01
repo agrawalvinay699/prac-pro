@@ -5,6 +5,6 @@
 3. Forgot password link workable
 4. edit profile php
 
-In short I need codes in php for back-end.
-You are welcome for front-end & ui/ux.
+In short I need codes in php for back-end. but...
+You are welcome for front-end & ui/ux responsive updates.
 Thankyou for visiting...
