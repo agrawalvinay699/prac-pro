@@ -1,0 +1,53 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Arial;
+	background-color: none;
+}
+
+.container{
+	background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url("bg2.jpg");
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+	color: white;
+	padding: 5%;
+	border: 5px solid lime;
+}
+
+.navbar{
+	margin-top: 1%;
+	border: 5px solid lime;
+}
+
+/*Dashboard style*/
+.form-control:focus {
+    box-shadow: none;
+    border-color: #BA68C8
+}
+
+.profile-button {
+    background: #BA68C8;
+    box-shadow: none;
+    border: none
+}
+
+.profile-button:hover {
+    background: #682773
+}
+
+.profile-button:focus {
+    background: #682773;
+    box-shadow: none
+}
+
+.profile-button:active {
+    background: #682773;
+    box-shadow: none
+}
+
+.back:hover {
+    color: #682773;
+    cursor: pointer
+}
+/*Dashboard style close*/
