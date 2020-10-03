@@ -12,7 +12,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
           // $mobile = $_POST['inputphone'];
           // $address = $_POST['inputaddress'];
           // $country = $_POST['inputcountry'];
-    // $exists=false;
+    // $exists=false; //for exit
 
     // Check whether this username exists
     $existSql = "SELECT * FROM `bbrusers` WHERE email = '$email'";
